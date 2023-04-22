@@ -17,5 +17,7 @@ python studio_root.py 进入可视化界面
 <img width="1259" alt="截屏2023-04-18 下午7 48 50" src="https://user-images.githubusercontent.com/9170648/233757706-91e09429-7a22-403d-af48-8ba3a4c66c58.png">
 
 <img width="1272" alt="截屏2023-04-18 下午7 49 58" src="https://user-images.githubusercontent.com/9170648/233757788-77491d86-79df-4427-9dee-f180fdb97d79.png">
+
 <img width="1265" alt="截屏2023-04-18 下午7 52 07" src="https://user-images.githubusercontent.com/9170648/233757805-e079f7b2-09ab-4225-a2be-fccb82297e58.png">
+
 <img width="1257" alt="截屏2023-04-18 上午8 43 06" src="https://user-images.githubusercontent.com/9170648/233757916-41388d9f-8470-4ccb-8f8e-ed013ea9f221.png">
