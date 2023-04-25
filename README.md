@@ -15,7 +15,7 @@ python studio_root.py 进入可视化界面
 本项目持续维护，会集成更多工具，让工具本身更智能顺手
 对本项目有兴趣的同学可以一起参与代码维护
 
-![9B061A02-42AE-482F-BCE8-5EF918777BC9](https://user-images.githubusercontent.com/9170648/234257936-29392757-f792-413e-a465-eb36b4cd590e.png)
+![F4A3E0B1-C9B9-4DA8-A862-1D3754E41DDA](https://user-images.githubusercontent.com/9170648/234258106-3ed0aca0-4ddb-4df8-a8e5-b7b1ca3408cc.png)
 
 <img width="1259" alt="截屏2023-04-18 下午7 48 50" src="https://user-images.githubusercontent.com/9170648/233757706-91e09429-7a22-403d-af48-8ba3a4c66c58.png">
 
