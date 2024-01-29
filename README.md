@@ -14,6 +14,9 @@ python studio_root.py 进入可视化界面
 ## 致力打造中国版StableDiffusion WebUI ##
 本项目持续维护，会集成更多工具，让工具本身更智能顺手
 对本项目有兴趣的同学可以一起参与代码维护
+
+![F4A3E0B1-C9B9-4DA8-A862-1D3754E41DDA](https://user-images.githubusercontent.com/9170648/234258106-3ed0aca0-4ddb-4df8-a8e5-b7b1ca3408cc.png)
+
 <img width="1259" alt="截屏2023-04-18 下午7 48 50" src="https://user-images.githubusercontent.com/9170648/233757706-91e09429-7a22-403d-af48-8ba3a4c66c58.png">
 
 <img width="1272" alt="截屏2023-04-18 下午7 49 58" src="https://user-images.githubusercontent.com/9170648/233757788-77491d86-79df-4427-9dee-f180fdb97d79.png">
